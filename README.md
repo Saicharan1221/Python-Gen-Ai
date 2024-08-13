@@ -1,4 +1,5 @@
-Assignment:
+# Python Devloper
+# Assignment:
 API endpoint: https://devapi.beyondchats.com/api/get_message_with_sources
 
 Above is a paginated GET API which returns an array of objects where each object contains a response text and a corresponding array of sources. 
@@ -13,5 +14,5 @@ Your task is to develop a Python program that does the following:
       5. Extra points if you can present your solution through a user-friendly UI.
 
 
-Technologies to Use:
+# Technologies to Use:
 Feel free to use any tools or libraries in Python needed to accomplish this task. The use of LLMs, NLP, ML/AI is encouraged.
